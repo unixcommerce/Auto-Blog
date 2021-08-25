@@ -1,0 +1,2 @@
+# autoblog
+WordPress autoblog plugin

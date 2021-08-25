@@ -1,2 +1,3 @@
 # autoblog
 WordPress autoblog plugin
+So, there was once a plugin for wordpress that would allow you to set up an AutoBlog. Its back from 2010 I think? But it is very difficult to find now adays. It allows you to use the RSS feed from another site to pull in content for your blog. Neat right! So, it is what I use on a couple of sites, including Unix Commerce, to pull in fresh content. Then i Syndicate it. I push it out over facebook, twitter, etc etc using IFTTT. Simple right? And I get the content from scoup.it. Rather simple. It's what gives me alot of search traffic, I think. But there you go! Its a very well kept secret. Props to Eli, the IT guy who put me on to this. Enjoy!
